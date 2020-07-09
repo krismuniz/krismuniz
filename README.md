@@ -1,6 +1,6 @@
-### :wave: ¡Wepa!
+# Kristian Muñiz – @krismuniz
 
-I'm Kristian Muñiz, a software developer, designer, and open source enthusiast from [Puerto Rico](https://wikipedia.org/wiki/Puerto_Rico "Link to Puerto Rico's Wikipedia Page").
+:wave: ¡Wepa! I'm Kristian Muñiz, a software developer, designer, and open source enthusiast from [Puerto Rico](https://wikipedia.org/wiki/Puerto_Rico "Link to Puerto Rico's Wikipedia Page").
 
 ### 👨🏻‍💻 Work 
 
