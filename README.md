@@ -1,16 +1,16 @@
-## Wepa!
+### ¡Wepa! :wave:
 
-I'm Kristian Muñiz, a software developer, designer, and open source enthusiast from [Puerto Rico](https://wikipedia.org/wiki/Puerto_Rico "Wepa! Link to Puerto Rico's Wikipedia Page").
+I'm Kristian Muñiz, a software developer, designer, and open source enthusiast from [Puerto Rico](https://wikipedia.org/wiki/Puerto_Rico "Link to Puerto Rico's Wikipedia Page").
 
-### Work
+### Work 👨🏻‍💻
 
-I'm currently CTO & Co-Founder of [Claimbot](https://claimbotcx.com), a purpose-built chatbot platform for businesses in the insurance and automotive industries.
+I'm currently CTO & Co-Founder of [Claimbot](https://claimbotcx.com), a customer experience automation platform for businesses in the insurance and automotive industries.
 
 I work with JavaScript and Node.js systems in production on a daily basis for both back-end and front-end codebases. I specialize in building scalable, flexible systems for providing highly-configurable conversational experiences.
 
 ### Hobbies
 
-About half of my free time is split between maintaining and ([casually](/posts/casual-open-source)) contributing to open source projects on [GitHub](https://github.com/krismuniz), making music, and [writing](/posts) (occasionally).
+About half of my free time is split between maintaining and ([casually](/posts/casual-open-source)) contributing to open source projects here on [GitHub](https://github.com/krismuniz), making music, and [writing](/posts) (occasionally).
 
 ### Contact Me
 
