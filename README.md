@@ -3,7 +3,7 @@
 I'm Kristian, a software developer, designer, and open source enthusiast from [Puerto Rico](https://wikipedia.org/wiki/Puerto_Rico "Link to Puerto Rico's Wikipedia Page") – currently based in San José, California. I love writing JavaScript, building products, and open-sourcing tools and libraries.
 
 <details>
-  <summary>About Me</summary>
+  <summary><strong>About Me<strong></summary>
 
 ### Work
 
