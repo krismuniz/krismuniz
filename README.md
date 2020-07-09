@@ -10,7 +10,7 @@ I work with JavaScript and Node.js systems in production on a daily basis for bo
 
 ### Hobbies
 
-About half of my free time is split between maintaining and ([casually](https://krismuniz.com/posts/casual-open-source)) contributing to open source projects here on [GitHub](https://github.com/krismuniz), making music, and [writing](/posts) (occasionally).
+About half of my free time is split between maintaining and ([casually](https://krismuniz.com/posts/casual-open-source)) contributing to open source projects here on [GitHub](https://github.com/krismuniz), making music, and [writing](https://krismuniz.com/posts) (occasionally).
 
 ### Contact Me
 
