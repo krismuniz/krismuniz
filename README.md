@@ -7,7 +7,9 @@ I'm Kristian, a software developer, designer, and open source enthusiast from [P
 
 ### Work
 
-I'm currently CTO & Co-Founder of [Claimbot](https://claimbotcx.com), a customer experience automation platform for businesses in the insurance and automotive industries.
+I’m currently an engineer at [Airkit](https://airkit.com), a low-code digital engagement platform.
+
+Previously, I was CTO & Co-Founder of [Claimbot](https://claimbotcx.com), a customer experience automation platform for businesses in the insurance and automotive industries.
 
 ### Hobbies
 
