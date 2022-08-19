@@ -7,7 +7,7 @@ I'm Kristian, a software developer, designer, and open source enthusiast from [P
 
 ### Work
 
-I’m currently an engineer at [Airkit](https://airkit.com), a low-code customer engagement platform.
+I'm currently a Staff Engineer at [Airkit](https://airkit.com), a low-code platform for building digital customer experiences.
 
 Previously, I was CTO & Co-Founder of Claimbot, a self-service engine for automating customer experience via chat.
 
